@@ -130,7 +130,7 @@ ItemDisplay[r20]: %TAN%%RUNENAME% Rune [20]
 ItemDisplay[r21]: %TAN%%RUNENAME% Rune [21]
 ItemDisplay[r22]: %TAN%%RUNENAME% Rune [22]
 ItemDisplay[r23]: %TAN%%RUNENAME% Rune [23]
-//24-33
+//24-34
 ItemDisplay[r24]: %PURPLE%%RUNENAME% Rune [24]
 ItemDisplay[r25]: %PURPLE%%RUNENAME% Rune [25]
 ItemDisplay[r26]: %PURPLE%%RUNENAME% Rune [26]
