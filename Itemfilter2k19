@@ -113,7 +113,7 @@ ItemDisplay[r08]: %ORANGE%Ral Rune
 ItemDisplay[r09]: %ORANGE%Ort Rune
 ItemDisplay[r10]: %ORANGE%Thul Rune
 ItemDisplay[r11]: %ORANGE%Amn Rune
-ItemDisplay[r12]: %ORANGE%Sol %NAME%
+ItemDisplay[r12]: %ORANGE%Sol Rune
 ItemDisplay[r13 CLVL>86]: %GRAY%%RUNENAME% Rune [13]
 ItemDisplay[r14 CLVL>86]: %GRAY%%RUNENAME% Rune [14]
 ItemDisplay[r15 CLVL>86]: %GRAY%%RUNENAME% Rune [15]
