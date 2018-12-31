@@ -104,7 +104,7 @@ ItemDisplay[r03 CLVL>86]: %GRAY%%RUNENAME% Rune [3]
 ItemDisplay[r01]: %TAN%%RUNENAME% Rune [1]
 ItemDisplay[r02]: %TAN%%RUNENAME% Rune [2]
 ItemDisplay[r03]: %TAN%%RUNENAME% Rune [3]
-ItemDisplay[r04]: %ORANGE%Nef [B Gloves]
+ItemDisplay[r04]: %ORANGE%Nef Rune
 ItemDisplay[r05 CLVL>86]: %GRAY%%RUNENAME% Rune [5]
 ItemDisplay[r05]: %TAN%%RUNENAME% Rune [5]
 ItemDisplay[r06]: %ORANGE%Ith Rune
