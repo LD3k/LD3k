@@ -107,13 +107,13 @@ ItemDisplay[r03]: %TAN%%RUNENAME% Rune [3]
 ItemDisplay[r04]: %ORANGE%Nef [B Gloves]
 ItemDisplay[r05 CLVL>86]: %GRAY%%RUNENAME% Rune [5]
 ItemDisplay[r05]: %TAN%%RUNENAME% Rune [5]
-ItemDisplay[r06]: %ORANGE%Ith
-ItemDisplay[r07]: %ORANGE%Tal
-ItemDisplay[r08]: %ORANGE%Ral
-ItemDisplay[r09]: %ORANGE%Ort 
-ItemDisplay[r10]: %ORANGE%Thul
-ItemDisplay[r11]: %ORANGE%Amn
-ItemDisplay[r12]: %ORANGE%Sol
+ItemDisplay[r06]: %ORANGE%Ith Rune
+ItemDisplay[r07]: %ORANGE%Tal Rune
+ItemDisplay[r08]: %ORANGE%Ral Rune
+ItemDisplay[r09]: %ORANGE%Ort Rune
+ItemDisplay[r10]: %ORANGE%Thul Rune
+ItemDisplay[r11]: %ORANGE%Amn Rune
+ItemDisplay[r12]: %ORANGE%Sol %NAME%
 ItemDisplay[r13 CLVL>86]: %GRAY%%RUNENAME% Rune [13]
 ItemDisplay[r14 CLVL>86]: %GRAY%%RUNENAME% Rune [14]
 ItemDisplay[r15 CLVL>86]: %GRAY%%RUNENAME% Rune [15]
